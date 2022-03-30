@@ -1,4 +1,9 @@
-- 👋 Hi, I’m Bachrul Uluum | @uluumbch
+
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <br> I'm Bachrul Uluum 💻</h1>
+
+<br>
+
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Kotlin Android
 - 📫 Reach out to me: uluum123@gmail.com
