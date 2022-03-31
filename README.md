@@ -3,20 +3,20 @@
   <br> I'm Bachrul Uluum 💻</h1>
 
 <br>
-
+<div align="center">
 - 👨🏻‍🎓 Information Technology' student at Lambung Mangkurat University
 - 🌱 I’m currently learning Kotlin Android
 - 📫 Reach out to me: uluum123@gmail.com
-<div align="center">
+
 
 [![Uluumbch's GitHub stats](https://github-readme-stats.vercel.app/api?username=uluumbch&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
 <br> ![Uluumbch Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uluumbch&layout=compact&theme=tokyonight)
 
-</div>
+
 
 connect with me
-<div align="center">
+
 
   [![uluumbch](./icons/telegram.svg)](https://t.me/uluumbch)[![uluumbch](./icons/instagram.svg)](https://instagram.com/uluumbch)[![Bachrul Uluum](./icons/linkedin.svg)](https://www.linkedin.com/in/bachrul-uluum/)
 
