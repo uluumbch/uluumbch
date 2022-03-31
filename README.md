@@ -6,10 +6,10 @@
 <div align="center">
 - 👨🏻‍🎓 Information Technology' student at Lambung Mangkurat University<br>
 - 🌱 I’m currently learning Kotlin Android<br>
-- 📫 Reach out to me: uluum123@gmail.com
+- 📫 Reach out to me:  uluum123@gmail.com
 
 
-[![Uluumbch's GitHub stats](https://github-readme-stats.vercel.app/api?username=uluumbch&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Uluumbch's GitHub stats](https://github-readme-stats.vercel.app/api?username=uluumbch&theme=tokyonight&show_icons=true)]
  
 <br> ![Uluumbch Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uluumbch&layout=compact&theme=tokyonight)
 
