@@ -4,8 +4,8 @@
 
 <br>
 <div align="center">
-- 👨🏻‍🎓 Information Technology' student at Lambung Mangkurat University
-- 🌱 I’m currently learning Kotlin Android
+- 👨🏻‍🎓 Information Technology' student at Lambung Mangkurat University<br>
+- 🌱 I’m currently learning Kotlin Android<br>
 - 📫 Reach out to me: uluum123@gmail.com
 
 
