@@ -4,7 +4,7 @@
 
 <br>
 
-- 👨🏻‍🎓 currently Information Technology' student at Lambung Mangkurat University
+- 👨🏻‍🎓 Information Technology' student at Lambung Mangkurat University
 - 🌱 I’m currently learning Kotlin Android
 - 📫 Reach out to me: uluum123@gmail.com
 <div align="center">
