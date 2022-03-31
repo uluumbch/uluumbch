@@ -14,6 +14,13 @@
 <br> ![Uluumbch Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uluumbch&layout=compact&theme=tokyonight)
 
 </div>
+
+connect with me
+<div align="center">
+
+  [![uluumbch](./icons/telegram.svg)](https://t.me/uluumbch)[![uluumbch](./icons/instagram.svg)](https://instagram.com/uluumbch)[![Bachrul Uluum](./icons/linkedin.svg)](https://www.linkedin.com/in/bachrul-uluum/)
+
+</div>
 <!---
 uluumbch/uluumbch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
