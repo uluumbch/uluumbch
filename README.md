@@ -1,13 +1,17 @@
 
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
   <br> I'm Bachrul Uluum 💻</h1>
 
 <br>
-<div align="center">
-- 👨🏻‍🎓 Information Technology' student at Lambung Mangkurat University<br>
-- 🌱 I’m currently learning Kotlin Android<br>
-- 📫 Reach out to me:  uluum123@gmail.com
 
+**About me**
+
+- 👨🏻‍🎓 Information Technology' student at Lambung Mangkurat University
+
+- 📈 Currently learning Back-end technology
+
+- 📫 Reach out to me:  uluum123@gmail.com
+<div align="center">
 
 ![Uluumbch's GitHub stats](https://github-readme-stats.vercel.app/api?username=uluumbch&theme=tokyonight&show_icons=true)]
  
