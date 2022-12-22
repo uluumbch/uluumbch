@@ -13,9 +13,9 @@
 - 📫 Reach out to me:  halo.uluum@gmail.com
 <div align="center">
 
-![Uluumbch's GitHub stats](https://github-readme-stats.vercel.app/api?username=uluumbch&theme=tokyonight&show_icons=true)]
+![Uluumbch's GitHub stats](https://github-readme-stats.vercel.app/api?username=uluumbch&theme=transparent&show_icons=true)]
  
-<br> ![Uluumbch Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uluumbch&layout=compact&theme=tokyonight)
+<br> ![Uluumbch Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uluumbch&layout=compact&theme=transparent)
 
 
 
