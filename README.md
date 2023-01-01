@@ -26,7 +26,8 @@ connect with me
 
 </div>
   <!-- BLOG-POST-LIST:START -->
-- `08-12-2022` | [Cara Menggunakan Google Sheet Sebagai Penyimpan Data Form Kontak](https://uluumbch.my.id/p/cara-menggunakan-google-sheet-sebagai-penyimpan-data-form-kontak/)  
+  
+- `08-12-2022` | [Cara Menggunakan Google Sheet Sebagai Penyimpan Data Form Kontak](https://uluumbch.my.id/p/cara-menggunakan-google-sheet-sebagai-penyimpan-data-form-kontak/)
 - `23-11-2022` | [Setting Domain/Sub Domain Pada Github Pages](https://uluumbch.my.id/p/setting-domain/sub-domain-pada-github-pages/)  
 - `21-11-2022` | [Cara Install Xampp Dan Composer Ubuntu 22](https://uluumbch.my.id/p/cara-install-xampp-dan-composer-ubuntu-22/)  
 - `16-11-2022` | [Cara Daftar Figma for Student](https://uluumbch.my.id/p/cara-daftar-figma-for-student/)  
