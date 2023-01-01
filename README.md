@@ -25,6 +25,10 @@ connect with me
   [![uluumbch](./icons/telegram.svg)](https://t.me/uluumbch)[![uluumbch](./icons/instagram.svg)](https://instagram.com/uluumbch)[![Bachrul Uluum](./icons/linkedin.svg)](https://www.linkedin.com/in/bachrul-uluum/)
 
 </div>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+
+
 <!---
 uluumbch/uluumbch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
