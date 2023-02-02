@@ -16,7 +16,9 @@ development and NodeJS/Express for back-end development.
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=uluumbch&theme=transparent&show_icons=true">](https://metrics.lecoq.io/uluumbch)
  
-<br> ![Uluumbch Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uluumbch&layout=compact&theme=transparent)
+ [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uluumbch&layout=compact&theme=transparent">](https://metrics.lecoq.io/uluumbch)
+  
+
 
 
 
