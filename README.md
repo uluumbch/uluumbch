@@ -41,7 +41,7 @@ connect with me
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=uluumbch&theme=github-dark-blue&border_radius=4.9&mode=weekly">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=uluumbch&theme=github-dark-blue&border_radius=4.9&mode=weekly&card_width=1000">
 </div>
 
 <!---
