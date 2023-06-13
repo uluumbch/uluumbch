@@ -40,6 +40,9 @@ connect with me
 
 <!-- BLOG-POST-LIST:END -->
 
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=uluumbch&theme=github-dark-blue&border_radius=4.9&mode=weekly">
+</div>
 
 <!---
 uluumbch/uluumbch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
