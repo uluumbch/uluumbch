@@ -32,11 +32,11 @@ connect with me
 ## Latest Blog Post
 
   <!-- BLOG-POST-LIST:START -->
+- `11-09-2023` | [Beralih ke Bun sebagai Javascript Runtime pengganti Node JS](https://uluumbch.my.id/p/beralih-ke-bun-sebagai-javascript-runtime-pengganti-node-js/)  
 - `12-07-2023` | [Cara Deploy Web Laravel Ke Hosting Cpanel](https://uluumbch.my.id/p/cara-deploy-web-laravel-ke-hosting-cpanel/)  
 - `21-02-2023` | [Cara Menggunakan Emoji Atau Emoticon Pada Ubuntu](https://uluumbch.my.id/p/cara-menggunakan-emoji-atau-emoticon-pada-ubuntu/)  
 - `10-01-2023` | [Cara Menjalankan Xampp Lewat Terminal Ubuntu](https://uluumbch.my.id/p/cara-menjalankan-xampp-lewat-terminal-ubuntu/)  
 - `08-12-2022` | [Cara Menggunakan Google Sheet Sebagai Penyimpan Data Form Kontak](https://uluumbch.my.id/p/cara-menggunakan-google-sheet-sebagai-penyimpan-data-form-kontak/)  
-- `23-11-2022` | [Setting Domain/Sub Domain Pada Github Pages](https://uluumbch.my.id/p/setting-domain/sub-domain-pada-github-pages/)  
 
 <!-- BLOG-POST-LIST:END -->
 
