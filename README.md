@@ -32,11 +32,11 @@ connect with me
 ## Latest Blog Post
 
   <!-- BLOG-POST-LIST:START -->
+- `14-06-2024` | [Review Penggunaan Google Colab Pro](https://uluumbch.my.id/p/review-penggunaan-google-colab-pro/)  
+- `08-06-2024` | [Instal CUDA Dan CUDNN Ubuntu 22](https://uluumbch.my.id/p/instal-cuda-dan-cudnn-ubuntu-22/)  
 - `10-05-2024` | [Cara Menggunakan Font Lokal Pada Laravel](https://uluumbch.my.id/p/cara-menggunakan-font-lokal-pada-laravel/)  
 - `17-10-2023` | [Mengubah Kolom Tanggal Menjadi Carbon Secara Otomatis Laravel](https://uluumbch.my.id/p/mengubah-kolom-tanggal-menjadi-carbon-secara-otomatis-laravel/)  
 - `14-10-2023` | [Cara Instal Tensorflow Dengan GPU Windows](https://uluumbch.my.id/p/cara-instal-tensorflow-dengan-gpu-windows/)  
-- `29-09-2023` | [Tentang](https://uluumbch.my.id/tentang/)  
-- `19-09-2023` | [Fitur Baru VS Code: Port Forwarding](https://uluumbch.my.id/p/fitur-baru-vs-code-port-forwarding/)  
 
 <!-- BLOG-POST-LIST:END -->
 
