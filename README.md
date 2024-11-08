@@ -32,11 +32,11 @@ connect with me
 ## Latest Blog Post
 
   <!-- BLOG-POST-LIST:START -->
+- `12-10-2024` | [Integrasi Odoo Dengan Laravel Sebagai SSO Server](https://uluumbch.my.id/p/integrasi-odoo-dengan-laravel-sebagai-sso-server/)  
+- `06-08-2024` | [Kirim Email Menggunakan SMTP dari Gmail](https://uluumbch.my.id/p/kirim-email-menggunakan-smtp-dari-gmail/)  
 - `14-06-2024` | [Review Penggunaan Google Colab Pro](https://uluumbch.my.id/p/review-penggunaan-google-colab-pro/)  
 - `08-06-2024` | [Instal CUDA Dan CUDNN Ubuntu 22](https://uluumbch.my.id/p/instal-cuda-dan-cudnn-ubuntu-22/)  
 - `10-05-2024` | [Cara Menggunakan Font Lokal Pada Laravel](https://uluumbch.my.id/p/cara-menggunakan-font-lokal-pada-laravel/)  
-- `17-10-2023` | [Mengubah Kolom Tanggal Menjadi Carbon Secara Otomatis Laravel](https://uluumbch.my.id/p/mengubah-kolom-tanggal-menjadi-carbon-secara-otomatis-laravel/)  
-- `14-10-2023` | [Cara Instal Tensorflow Dengan GPU Windows](https://uluumbch.my.id/p/cara-instal-tensorflow-dengan-gpu-windows/)  
 
 <!-- BLOG-POST-LIST:END -->
 
