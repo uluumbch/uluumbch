@@ -3,13 +3,11 @@
   <br> I'm Bachrul Uluum 💻</h1>
 <br>
 
-✨🎓 Active student at Lambung Mangkurat University, has a strong foundation in web programming,
-with experience in Laravel and TailwindCSS. Also has worked with ReactJS for front-end
+✨💻 Web Developer with experience in Laravel and TailwindCSS. Also has worked with ReactJS for front-end
 development and NodeJS/Express for back-end development.
 
-🧐📈 Right now i'm curious about machine learning and data science.
 
-📫 Reach out to me:  halo.uluum@gmail.com
+📫 Has project idea? Reach out to me:  halo.uluum@gmail.com
 
 <div align="center">
 
@@ -42,14 +40,14 @@ connect with me
 
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=uluumbch&theme=github-dark-blue&border_radius=4.9&mode=weekly&card_width=1000">
-</div>
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uluumbch/uluumbch/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uluumbch/uluumbch/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/uluumbch/uluumbch/output/github-snake.svg" />
 </picture>
+</div>
 
 <!---
 uluumbch/uluumbch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
