@@ -18,3 +18,17 @@
            template: "- `$date` | [$title]($url)  $newline"
            date_format: dd-mm-yyyy
            tag_post_pre_newline: true
+     name: Update this repo's README with latest en blog posts
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v3
+       - uses: gautamkrishnar/blog-post-workflow@master
+         with:
+           # Replace this URL with your RSS feed URL/s
+           feed_list: "https://uluumbch.my.id/index.xml"
+           # Optional
+           max_post_count: 5
+           comment_tag_name: "BLOG-POST-LIST-EN"
+           template: "- `$date` | [$title]($url)  $newline"
+           date_format: dd-mm-yyyy
+           tag_post_pre_newline: true
