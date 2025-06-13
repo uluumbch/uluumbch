@@ -38,6 +38,9 @@ connect with me
 
 <!-- BLOG-POST-LIST-EN:END -->
 
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=uluumbch/uluumbch@github)](https://gitads.dev/v1/ad-track?source=uluumbch/uluumbch@github)
+
+
 ## Bahasa Indonesia
 
 <!-- BLOG-POST-LIST:START -->
