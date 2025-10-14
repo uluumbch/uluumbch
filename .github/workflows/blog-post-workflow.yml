@@ -4,6 +4,11 @@ on:
   #   - cron: '0 * * * *' 
   workflow_dispatch:
 
+# Prevent overlapping runs of this workflow on the same ref
+concurrency:
+  group: blog-post-workflow-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
