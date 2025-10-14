@@ -30,11 +30,11 @@ connect with me
 ## Latest Blog Post
 
 <!-- BLOG-POST-LIST-EN:START -->
+- `27-09-2025` | [Use React Js in Electron Project](https://www.uluumbch.my.id/en/p/use-react-js-in-electron-project/)  
 - `11-01-2025` | [How to Easily Share Local Laravel Projects to the Public Internet](https://www.uluumbch.my.id/en/p/how-to-easily-share-local-laravel-projects-to-the-public-internet/)  
 - `12-10-2024` | [Integrate Odoo With Laravel SSO Server](https://www.uluumbch.my.id/en/p/integrate-odoo-with-laravel-sso-server/)  
 - `09-06-2024` | [Install Cuda and Cudnn on Ubuntu](https://www.uluumbch.my.id/en/p/install-cuda-and-cudnn-on-ubuntu/)  
 - `10-05-2024` | [How to Use Local Font in Laravel Project](https://www.uluumbch.my.id/en/p/how-to-use-local-font-in-laravel-project/)  
-- `29-09-2023` | [How to Depoy Laravel to Web Hosting Cpanel](https://www.uluumbch.my.id/en/p/how-to-deploy-laravel-to-web-hosting-cpanel/)  
 
 <!-- BLOG-POST-LIST-EN:END -->
 
